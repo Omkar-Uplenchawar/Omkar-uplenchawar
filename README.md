@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Uplenchawar</h1>
-<h3 align="center">I will win not immediately but definately.</h3>
+<h3 align="center">I will win not immediately, but definitely succeed.</h3>
 
 - 🔭 I’m currently working on **myself**
 
